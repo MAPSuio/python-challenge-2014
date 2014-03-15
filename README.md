@@ -20,5 +20,5 @@ Follow the links to each problem for problem text, solution description, solutio
 16. [Wired](wired/README.md)
 
 ## Sample problems
-1. [Saying hello](examples/hello/README.md)
-2. [Summing up](examples/summing/README.md)
+1. [Saying hello](hello/README.md)
+2. [Summing up](summing/README.md)
