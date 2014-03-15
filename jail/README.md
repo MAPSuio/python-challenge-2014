@@ -1,5 +1,5 @@
 # Jail
-Problem author: Ola Liabøtrø
+Problem author: Torgeir Børresen, Ola Liabøtrø
 
 [Problem text](problem.md)
 
